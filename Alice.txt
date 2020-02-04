@@ -3,3 +3,5 @@ Some new text to Alice.txt.
 Some new text to Alice.txt from branch "change_alice" 02:02:2020 at 15:56
 New text in Alice after Patrick branch creation
 modifying for some change simulation
+changing Alice before pulling
+
